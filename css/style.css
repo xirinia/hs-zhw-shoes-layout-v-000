@@ -342,6 +342,7 @@ footer {
 
 .row{
 	clear: both;
+	padding-top: 100px;
 }
-	
+
 /* code examples copyright Jonathan Grover 2012 */
