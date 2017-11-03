@@ -340,9 +340,12 @@ footer {
   line-height: 0;
 }
 
-.row{
+.row1{
 	clear: both;
 	padding-top: 30px;
 }
-
+.row2{
+	clear: both;
+	padding-top: 30px;
+}
 /* code examples copyright Jonathan Grover 2012 */
