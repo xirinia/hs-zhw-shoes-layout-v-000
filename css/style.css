@@ -339,4 +339,9 @@ footer {
   height: 0;
   line-height: 0;
 }
+
+.row{
+	clear: both;
+}
+	
 /* code examples copyright Jonathan Grover 2012 */
